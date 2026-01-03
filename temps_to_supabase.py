@@ -65,7 +65,7 @@ def main():
             print(f"Upload failed: {e}")
 
         print("-" * 40)
-        time.sleep(10)
+        time.sleep(1)
 
 if __name__ == "__main__":
     main()

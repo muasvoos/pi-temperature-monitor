@@ -7,3 +7,21 @@ __pycache__/
 
 # OS junk
 .DS_Store
+
+# Claude Code local state and credentials
+.claude/
+
+# VSCode Server cache and extensions
+.vscode-server/
+
+# Config files (local settings)
+.config/
+
+# Local binaries and cache
+.local/
+.cache/
+
+# X11 and session files
+.Xauthority
+.bash_history
+.sudo_as_admin_successful
