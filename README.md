@@ -4,7 +4,7 @@ This project runs on a Raspberry Pi 4 and reads DS18B20 temperature sensors via 
 
 ## Related project (Phone App / PWA)
 📱 Live dashboard PWA: **temp-pwa**  
-- Repo: https://github.com/<YOUR_GITHUB_USERNAME>/temp-pwa
+- Repo: https://github.com/muasvoos/temp-pwa
 - Purpose: View live temperatures on your phone (local time: America/Chicago)
 
 ## Architecture
