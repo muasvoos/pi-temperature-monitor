@@ -12,7 +12,10 @@ Pi (DS18B20) → Supabase table `temperature_readings` → PWA dashboard (Realti
 
 ## Hardware
 - Raspberry Pi 4
-- 2× DS18B20 sensors
+- 3× DS18B20 sensors
+  - `28-011912555951` → ambient_room
+  - `28-011912765725` → test_probe
+  - `28-0119127640b5` → control_probe
 - 4.7k pull-up resistor (DATA → 3.3V)
 - Wiring / breadboard or terminal blocks
 
