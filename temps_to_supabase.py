@@ -20,7 +20,7 @@ SUPABASE_KEY = os.environ["SUPABASE_ANON_KEY"]
 DEVICE_ID = os.environ.get("DEVICE_ID", "pi4")
 
 SENSORS = {
-    "28-011912555951": "ambient_room",
+    "28-011912555951": "ambient",
     "28-011912765725": "test_probe",
     "28-0119127640b5": "control_probe",
 }
